@@ -56,7 +56,7 @@
     <div class="container">
         <section id="about">
             <h2>About Me</h2>
-            <p>Hello! I'm a software developer with a passion for creating amazing applications. I love to learn new technologies and improve my skills.</p>
+            <p>Hello! I'm Jayant a software developer with a passion for creating amazing applications. I love to learn new technologies and improve my skills.</p>
         </section>
         <section id="projects">
             <h2>Projects</h2>
